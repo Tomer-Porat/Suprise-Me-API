@@ -46,12 +46,6 @@ $ cd ../src
 $ npm test
 ``` 
 ## Technologies
-
-Project is created with:
 * axios version: 0.21.1
 * express version: 4.17.1
 * jest version: 27.0.6
-
-
-Sincerely,
-Tomer Porat
